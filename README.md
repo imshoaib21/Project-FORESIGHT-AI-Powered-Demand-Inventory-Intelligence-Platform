@@ -334,7 +334,7 @@ Create a `screenshots` folder in your repository and upload the corresponding im
 
 | Resource          | Link                                                 |
 | ----------------- | ---------------------------------------------------- |
-| GitHub Repository | [Project FORESIGHT](https://github.com/rinkle-YADAV) |
+| GitHub Repository | [Project FORESIGHT](https://github.com/imshoaib21) |
 | Live Deployment   | Add your deployment URL                              |
 | Demo Video        | Add your demo video link                             |
 | Feedback Video    | Add your feedback video link                         |
