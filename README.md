@@ -344,7 +344,7 @@ Create a `screenshots` folder in your repository and upload the corresponding im
 
 ## 👩‍💻 Author
 
-**Rinkle Yadav**
+**MD SHOAIB AKHTAR**
 Data Analytics Intern
 
 **Mentor:** Chandan Mishra
