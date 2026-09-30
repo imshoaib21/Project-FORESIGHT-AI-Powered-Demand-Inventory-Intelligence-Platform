@@ -338,7 +338,7 @@ Create a `screenshots` folder in your repository and upload the corresponding im
 | Live Deployment   | https://projectforesight-imshoaib.netlify.app/                             |
 | Demo Video        | Add your demo video link                             |
 | Feedback Video    | Add your feedback video link                         |
-| Project Report    | Add your report link                                 |
+| Project Report    | https://drive.google.com/file/d/1CZKZ_-lE70V7P4lyGqUtYfrswE_ohjvf/view?usp=drivesdk                                 |
 
 ---
 
