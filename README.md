@@ -336,7 +336,7 @@ Create a `screenshots` folder in your repository and upload the corresponding im
 | ----------------- | ---------------------------------------------------- |
 | GitHub Repository | [Project FORESIGHT](https://github.com/imshoaib21) |
 | Live Deployment   | https://projectforesight-imshoaib.netlify.app/                             |
-| Demo Video        | Add your demo video link                             |
+| Demo Video        | https://drive.google.com/file/d/1JdBDuZ1gQDbSG2zZHTv9H0k5xKjKKEgr/view?usp=drivesdk                            |
 | Feedback Video    | Add your feedback video link                         |
 | Project Report    | https://drive.google.com/file/d/1CZKZ_-lE70V7P4lyGqUtYfrswE_ohjvf/view?usp=drivesdk                                 |
 
